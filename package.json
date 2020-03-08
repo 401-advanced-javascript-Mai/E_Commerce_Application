@@ -1,0 +1,31 @@
+{
+  "name": "E_Commerce_Application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-Mai/E_Commerce_Application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-Mai/E_Commerce_Application/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-Mai/E_Commerce_Application#readme",
+  "dependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-redux": "^7.2.0",
+    "react-scripts": "^3.4.0",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-mock-store": "^1.5.4"
+  }
+}
